@@ -1,4 +1,4 @@
-# Image Color Replacement Script
+# Background: Image Color Replacement Script
 
 This Python script processes all PNG files in the current directory, replacing a specified target color with a default replacement color (white). It utilizes the [Pillow](https://pillow.readthedocs.io/en/stable/) library for image manipulation.
 
